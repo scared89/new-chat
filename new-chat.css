@@ -14,7 +14,7 @@ body{
     --fcc-border-dark-2:hsla(100,100%,0%,0.4);
     --fcc-response-parent-name:#00afe8;
     --fcc-response-border:hsla(100,100%,0%,0.4);
-    --fcc-control-background: rgb(255, 0, 0);
+    --fcc-control-background: "rgb(255, 0, 0)";
     --fcc-control-background-hover: #fff;
     --fcc-icon-primary:hsla(100,100%,0%,0.4);
     --fcc-icon-secondary:hsla(100,100%,0%,0.4);
