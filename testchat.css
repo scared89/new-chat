@@ -1,3 +1,27 @@
 body {
-  background-color: #fff !important;
+    --fcc-app-background: #fff !important;
+    --fcc-app-background-highlight: rgba(244, 242, 247, 0.65) !important;
+    --fcc-accent: #9074fe !important;
+    --fcc-accent-light: #beaeff !important;
+    --fcc-accent-shadow: rgba(116, 81, 254, 0.24) !important;
+    --fcc-text-primary: #000 !important;
+    --fcc-text-secondary: hsla(100, 100%, 0%, 0.4) !important;
+    --fcc-text-darker-1: hsla(100, 100%, 0%, 0.4) !important;
+    --fcc-text-darker-2: hsla(100, 100%, 0%, 0.4) !important;
+    --fcc-text-darker-3: hsla(100, 100%, 0%, 0.4) !important;
+    --fcc-text-darker-4: hsla(100, 100%, 0%, 0.4) !important;
+    --fcc-border: #d5d5d5 !important;
+    --fcc-border-dark-1: hsla(100, 100%, 100%, 0.4) !important;
+    --fcc-border-dark-2: hsla(100, 100%, 100%, 0.4) !important;
+    --fcc-response-parent-name: #00afe8 !important;
+    --fcc-response-border: hsla(100, 100%, 0%, 0.4) !important;
+    --fcc-control-background: #fff !important;
+    --fcc-control-background-hover: #fff !important;
+    --fcc-icon-primary: hsla(100, 100%, 0%, 0.4) !important;
+    --fcc-icon-secondary: hsla(100, 100%, 0%, 0.4) !important;
+    --fcc-icon-darker-1: hsla(100, 100%, 0%, 0.4) !important;
+    --fcc-scroll-background: hsla(100, 100%, 0%, 0.4) !important;
+    --fcc-scroll-thumb: hsla(100, 100%, 0%, 0.4) !important;
+    --fcc-moderator-icon-color: #000 !important;
+    --fcc-moderator-icon-background: #fff !important;
 }
